@@ -1,1 +1,12 @@
-one
+Numbers :
+
+one 
+two
+three
+four
+five
+six
+seven
+eight
+nines
+ten
